@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=238
+
+Function to output a number as HEX
+
+echo HexOut( 255)
+ should output 'ff'
